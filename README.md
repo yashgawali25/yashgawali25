@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash.
-- 🎓 I'm Bachelor in Computer Science Graduate.
+- 🎓 I'm BSc(Computer Science) Graduate.
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning iOS App Development, Swift.
 - 📫 How to reach me - Email: yashgawali259@gmail.com
