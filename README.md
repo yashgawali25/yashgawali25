@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashgawali25
+- 👋 Hi, I’m Yash.
 - 🎓 I'm Bachelor in Computer Science Graduate.
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning iOS App Development, Swift.
